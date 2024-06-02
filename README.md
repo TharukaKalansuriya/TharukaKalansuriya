@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
-- 🧑🏻‍🎓 I’m currently undergraduate at LNBTI 
+- 🧑🏻‍🎓 I’m currently undergraduate at **LNBTI** 
 
 - 🌱 I’m currently learning on **Flutter, Java, Java OOP**
 
