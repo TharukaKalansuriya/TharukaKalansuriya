@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **LNBTI**
 
-- 🌱 I’m currently learning on **Flutter, Java, Java OOP**
+- 🌱 I’m currently learning on **Flutter, Java, Java OOP, IOT**
 
 - 📫 How to reach me **tharukakalansuriya@gmail.com**
 
